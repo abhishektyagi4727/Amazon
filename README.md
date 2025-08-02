@@ -29,6 +29,3 @@ This is a front-end clone of the Amazon India website built using *HTML* and *CS
 
 
 
-### 🚫 Disclaimer
-
-This project is for *educational purposes only*. All logos and trademarks belong to their respective owners.
